@@ -12,4 +12,10 @@ package proyectogit;
 public class Clase3 {
     int atr;
     int atr2;
+  
+    int variableByHeidy = 0;
+    
+    public Clase3(int variableByHeidy ){
+        this.variableByHeidy = variableByHeidy;
+    }
 }
