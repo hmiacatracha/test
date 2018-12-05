@@ -10,5 +10,6 @@ package proyectogit;
  * @author NERA
  */
 public class Clase3 {
-    
+    int atr;
+    int atr2;
 }
